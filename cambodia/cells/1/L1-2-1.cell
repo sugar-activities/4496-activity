@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/2-1.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="signovergrown" pos="224,273" dim="237,225" scale="0.0633791130290361,0.146747678543976" nomirror="true" />
+    <mount key="treewall" pos="527,312" dim="300,200" scale="0.431891759092075,0.886973618087504" />
+    <mount key="minesign" pos="414,168" scale="0.339778834522034" nomirror="true" />
+  </bad>
+</cell>

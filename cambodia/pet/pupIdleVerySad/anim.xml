@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" >
+<frame img="puppy001.png"/>
+<frame img="puppy002.png"/>
+<frame img="puppy003.png"/>
+<frame img="puppy004.png"/>
+<frame img="puppy005.png"/>
+<frame img="puppy006.png"/>
+<frame img="puppy007.png"/>
+<frame img="puppy008.png"/>
+<frame img="puppy009.png"/>
+<frame img="puppy010.png"/>
+</Animation>

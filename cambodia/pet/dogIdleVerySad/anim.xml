@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" >
+<frame img="adult001.png"/>
+<frame img="adult002.png"/>
+<frame img="adult003.png"/>
+<frame img="adult004.png"/>
+<frame img="adult005.png"/>
+<frame img="adult006.png"/>
+<frame img="adult007.png"/>
+<frame img="adult008.png"/>
+<frame img="adult009.png"/>
+<frame img="adult010.png"/>
+</Animation>

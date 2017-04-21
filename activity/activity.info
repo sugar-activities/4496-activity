@@ -1,0 +1,7 @@
+[Activity]
+name = Landmine: Khmer
+activity_version = 2
+host_version = 1
+service_name = org.laptop.community.LandmineKhmer
+icon = activity
+exec = sugar-activity activity.Activity

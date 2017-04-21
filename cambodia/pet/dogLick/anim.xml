@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".3" norepeat="true" >
+<frame img="dogLick0001.png"/>
+<frame img="dogLick0002.png"/>
+<frame img="dogLick0003.png"/>
+<frame img="dogLick0004.png"/>
+<frame img="dogLick0005.png"/>
+<frame img="dogLick0006.png"/>
+<frame img="dogLick0007.png"/>
+<frame img="dogLick0008.png"/>
+<frame img="dogLick0009.png"/>
+<frame img="dogLick0010.png"/>
+<frame img="dogLick0011.png"/>
+<frame img="dogLick0012.png"/>
+<frame img="dogLick0013.png"/>
+</Animation>

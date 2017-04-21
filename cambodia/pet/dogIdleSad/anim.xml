@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" >
+<frame img="dogIdleSad0001.png"/>
+<frame img="dogIdleSad0002.png"/>
+<frame img="dogIdleSad0003.png"/>
+<frame img="dogIdleSad0004.png"/>
+<frame img="dogIdleSad0005.png"/>
+<frame img="dogIdleSad0006.png"/>
+<frame img="dogIdleSad0007.png"/>
+<frame img="dogIdleSad0008.png"/>
+<frame img="dogIdleSad0009.png"/>
+<frame img="dogIdleSad0010.png"/>
+<frame img="dogIdleSad0011.png"/>
+<frame img="dogIdleSad0012.png"/>
+<frame img="dogIdleSad0013.png"/>
+<frame img="dogIdleSad0014.png"/>
+<frame img="dogIdleSad0015.png"/>
+</Animation>

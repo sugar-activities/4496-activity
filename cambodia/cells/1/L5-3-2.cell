@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/3-2.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="redtape" pos="814,56" scale="0.25915603420974" />
+    <mount key="rock" pos="654,147" scale="0.431891759092075" />
+    <mount key="mine6" pos="220,369" dim="214,178" scale="0.786722199183237,1.43307161032392" />
+    <mount key="bombshell" pos="315,519" scale="0.237098294372906" />
+  </bad>
+</cell>

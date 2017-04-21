@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".1" norepeat="True" mirror="True">
+	<frame img="walkRight001.png"/>
+	<frame img="walkRight002.png"/>
+	<frame img="walkRight003.png"/>
+	<frame img="walkRight004.png"/>
+	<frame img="walkRight005.png"/>
+	<frame img="walkRight006.png"/>
+	<frame img="walkRight007.png"/>
+	<frame img="walkRight008.png"/>
+	<frame img="walkRight009.png"/>
+	<frame img="walkRight010.png"/>
+	<frame img="walkRight011.png"/>
+	<frame img="walkRight012.png"/>
+</Animation>

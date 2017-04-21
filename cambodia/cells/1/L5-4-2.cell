@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/4-2.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="signovergrown" pos="714,180" scale="0.056215601194541" nomirror="true" />
+    <mount key="bones" pos="373,199" dim="64,34" scale="0.0805609821291879,0.102400799434445" />
+    <mount key="mine6" pos="601,275" scale="0.697801835439313" />
+    <mount key="mine1" pos="610,613" scale="0.886973618087504" />
+    <mount key="bombshell" pos="421,222" scale="0.115449656389152" />
+    <mount key="skullsign" pos="1026,480" scale="0.618931818687708" nomirror="true" />
+  </bad>
+</cell>

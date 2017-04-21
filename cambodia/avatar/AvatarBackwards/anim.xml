@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".2" norepeat="True">
+	<frame img="backwards001.png"/>
+	<frame img="backwards002.png"/>
+	<frame img="backwards003.png"/>
+	<frame img="backwards004.png"/>
+	<frame img="backwards005.png"/>
+	<frame img="backwards006.png"/>
+	<frame img="backwards007.png"/>
+	<frame img="backwards008.png"/>
+</Animation>

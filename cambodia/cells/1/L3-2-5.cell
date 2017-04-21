@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/2-5.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="treewall" pos="518,211" dim="100,81" scale="0.146747678543976,0.267311551931092" />
+    <mount key="signovergrown" pos="416,201" scale="0.0442260614001771" nomirror="true" />
+    <mount key="weirdboxthing" pos="909,421" dim="116,119" scale="0.618931818687709,1.12742924886109" />
+    <mount key="bombshell" pos="584,499" scale="0.186530491571647" />
+  </bad>
+</cell>

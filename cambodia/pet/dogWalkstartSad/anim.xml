@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" mirror="true" norepeat="true" >
+<frame img="dogWalkSad0001.png"/>
+<frame img="dogWalkSad0002.png"/>
+<frame img="dogWalkSad0003.png"/>
+<frame img="dogWalkSad0004.png"/>
+</Animation>

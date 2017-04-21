@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" mirror="true" >
+<frame img="dogWalkHappy0003.png"/>
+<frame img="dogWalkHappy0004.png"/>
+<frame img="dogWalkHappy0005.png"/>
+<frame img="dogWalkHappy0006.png"/>
+<frame img="dogWalkHappy0007.png"/>
+<frame img="dogWalkHappy0008.png"/>
+<frame img="dogWalkHappy0009.png"/>
+<frame img="dogWalkHappy0010.png"/>
+<frame img="dogWalkHappy0011.png"/>
+</Animation>

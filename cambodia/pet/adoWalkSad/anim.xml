@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" mirror="true" >
+<frame img="midWalkSad0005.png"/>
+<frame img="midWalkSad0006.png"/>
+<frame img="midWalkSad0007.png"/>
+<frame img="midWalkSad0008.png"/>
+<frame img="midWalkSad0009.png"/>
+<frame img="midWalkSad0010.png"/>
+<frame img="midWalkSad0011.png"/>
+<frame img="midWalkSad0012.png"/>
+<frame img="midWalkSad0013.png"/>
+</Animation>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="2/2-4.JPG" stuckWest="True" stuckEast="False" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="minesign" pos="67,527" dim="655,120" scale="0.301374862205563,0.697801835439313" nomirror="true" />
+    <mount key="bones" pos="239,360" scale="0.102400799434445" />
+    <mount key="rock" pos="831,409" scale="0.339778834522034" />
+  </bad>
+</cell>

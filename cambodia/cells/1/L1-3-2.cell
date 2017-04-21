@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/3-2.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="treewall" pos="157,400" dim="182,246" scale="0.548976194570916,1" />
+    <mount key="post" pos="549,592" scale="0.697801835439313" />
+    <mount key="bones" pos="494,80" scale="0.115449656389152" />
+  </bad>
+</cell>

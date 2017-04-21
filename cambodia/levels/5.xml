@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<level size="8,7" start="6,5" startdir="0" music="background1.ogg">
+	 <map img="map1.png" tl="44, 44" br="211,211" foodIcon="foodIconMini.png" playerIcon="playerArrow.png"/>
+	 <home xml="home.cell"/>
+	<row>
+		<cell/>
+		<cell xml="1/L5-0-1.cell"/>
+		<cell xml="1/L5-0-2.cell"/>
+		<cell xml="1/L5-0-3.cell"/>
+		<cell xml="1/L5-0-4.cell"/>
+		<cell xml="1/L5-0-5.cell"/>
+		<cell/>
+	</row>
+	<row>
+		<cell xml="1/L5-1-0.cell"/>
+		<cell xml="1/L5-1-1.cell"/>
+		<cell xml="1/L5-1-2.cell"/>
+		<cell xml="1/L5-1-3.cell"/>
+		<cell xml="1/L5-1-4.cell"/>
+		<cell xml="1/L5-1-5.cell"/>
+		<cell xml="1/L5-1-6.cell"/>
+	</row>
+	<row>
+		<cell xml="1/L5-2-0.cell"/>
+		<cell xml="1/L5-2-1.cell"/>
+		<cell xml="1/L5-2-2.cell"/>
+		<cell xml="1/L5-2-3.cell"/>
+		<cell xml="1/L5-2-4.cell"/>
+		<cell xml="1/L5-2-5.cell"/>
+		<cell xml="1/L5-2-6.cell"/>
+	</row>
+	<row>
+		<cell xml="1/L5-3-0.cell"/>
+		<cell xml="1/L5-3-1.cell"/>
+		<cell xml="1/L5-3-2.cell"/>
+		<cell xml="1/L5-3-3.cell"/>
+		<cell xml="1/L5-3-4.cell"/>
+		<cell xml="1/L5-3-5.cell"/>
+		<cell xml="1/L5-3-6.cell"/>
+	</row>
+	<row>
+		<cell xml="1/L5-4-0.cell"/>
+		<cell xml="1/L5-4-1.cell"/>
+		<cell xml="1/L5-4-2.cell"/>
+		<cell xml="1/L5-4-3.cell"/>
+		<cell xml="1/L5-4-4.cell"/>
+		<cell xml="1/L5-4-5.cell"/>
+		<cell xml="1/L5-4-6.cell"/>
+	</row>
+	<row>
+		<cell xml="1/L5-5-0.cell"/>
+		<cell xml="1/L5-5-1.cell"/>
+		<cell xml="1/L5-5-2.cell"/>
+		<cell xml="1/L5-5-3.cell"/>
+		<cell xml="1/L5-5-4.cell"/>
+		<cell xml="1/L5-5-5.cell"/>
+		<cell xml="1/L5-5-6.cell"/>
+	</row>
+	<row>
+		<cell xml="1/L5-6-0.cell"/>
+		<cell xml="1/L5-6-1.cell"/>
+		<cell xml="1/L5-6-2.cell"/>
+		<cell xml="1/L5-6-3.cell"/>
+		<cell xml="1/L5-6-4.cell"/>
+		<cell xml="1/L5-6-5.cell"/>
+		<cell xml="1/L5-6-6.cell"/>
+	</row>
+	<row>
+		<cell/>
+		<cell xml="1/L5-7-1.cell"/>
+		<cell xml="1/L5-7-2.cell"/>
+		<cell xml="1/L5-7-3.cell"/>
+		<cell xml="1/L5-7-4.cell"/>
+		<cell xml="1/L5-7-5.cell"/>
+		<cell/>
+	</row>
+</level>

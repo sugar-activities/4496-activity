@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/3-4.JPG" stuckWest="False" stuckEast="True" stuckNorth="False" stuckSouth="True">
+  <good>
+    <mount key="rock2" pos="570,299" scale="0.339778834522034" />
+  </good>
+</cell>

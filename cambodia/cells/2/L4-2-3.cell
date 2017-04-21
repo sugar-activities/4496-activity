@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="2/2-3.JPG" food="true" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <fix>
+    <mount key="foodIcon" pos="476,440" dim="158,205" scale="0.165447624992944,0.486927401542474" />
+  </fix>
+</cell>

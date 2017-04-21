@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" >
+<frame img="pupIdleHappy0001.png"/>
+<frame img="pupIdleHappy0002.png"/>
+<frame img="pupIdleHappy0003.png"/>
+<frame img="pupIdleHappy0004.png"/>
+<frame img="pupIdleHappy0005.png"/>
+<frame img="pupIdleHappy0006.png"/>
+<frame img="pupIdleHappy0007.png"/>
+<frame img="pupIdleHappy0008.png"/>
+<frame img="pupIdleHappy0009.png"/>
+<frame img="pupIdleHappy0010.png"/>
+<frame img="pupIdleHappy0011.png"/>
+<frame img="pupIdleHappy0012.png"/>
+<frame img="pupIdleHappy0013.png"/>
+<frame img="pupIdleHappy0014.png"/>
+<frame img="pupIdleHappy0015.png"/>
+<frame img="pupIdleHappy0016.png"/>
+</Animation>

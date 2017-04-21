@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/2-1.JPG" voiceonce="06.ogg" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <fix>
+    <mount key="birds" pos="24,4" dim="738,96" scale="0.153119858303912,0.975" />
+    <mount key="rock2" pos="604,596" scale="0.510462729991968" />
+  </fix>
+  <bad>
+    <mount key="treewall" pos="735,364" scale="0.811271063819673" />
+    <mount key="post" pos="504,234" scale="0.337694923308296" />
+  </bad>
+</cell>

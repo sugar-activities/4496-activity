@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/3-3.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="weirdboxthing" pos="1043,569" scale="0.618931818687709" />
+    <mount key="mine4" pos="545,606" dim="297,44" scale="0.786722199183237,1.27109671118749" />
+    <mount key="mine1" pos="784,476" dim="261,85" scale="0.301374862205563,0.548976194570915" />
+    <mount key="skullsign" pos="288,382" scale="0.186530491571647" nomirror="true" />
+  </bad>
+</cell>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".2" norepeat="True">
+	<frame img="forward001.png"/>
+	<frame img="forward002.png"/>
+	<frame img="forward003.png"/>
+	<frame img="forward004.png"/>
+	<frame img="forward005.png"/>
+	<frame img="forward006.png"/>
+	<frame img="forward007.png"/>
+	<frame img="forward008.png"/>
+	<frame img="forward009.png"/>
+	<frame img="forward010.png"/>
+	<frame img="forward011.png"/>
+</Animation>

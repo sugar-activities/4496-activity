@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5">
+	<frame img="midIdleSad0001.png"/>
+	<frame img="midIdleSad0002.png"/>
+	<frame img="midIdleSad0003.png"/>
+	<frame img="midIdleSad0004.png"/>
+	<frame img="midIdleSad0005.png"/>
+	<frame img="midIdleSad0006.png"/>
+	<frame img="midIdleSad0007.png"/>
+	<frame img="midIdleSad0008.png"/>
+	<frame img="midIdleSad0009.png"/>
+	<frame img="midIdleSad0010.png"/>
+	<frame img="midIdleSad0011.png"/>
+	<frame img="midIdleSad0012.png"/>
+	<frame img="midIdleSad0013.png"/>
+	<frame img="midIdleSad0014.png"/>
+	<frame img="midIdleSad0015.png"/>
+</Animation>

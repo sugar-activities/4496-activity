@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".7">
+	<frame img="idle001.png"/>
+	<frame img="idle002.png"/>
+	<frame img="idle003.png"/>
+	<frame img="idle004.png"/>
+	<frame img="idle005.png"/>
+	<frame img="idle006.png"/>
+	<frame img="idle007.png"/>
+	<frame img="idle008.png"/>
+	<frame img="idle009.png"/>
+	<frame img="idle010.png"/>
+	<frame img="idle011.png"/>
+	<frame img="idle012.png"/>
+</Animation>

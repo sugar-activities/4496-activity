@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="2/5-4.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="mine2" pos="147,493" dim="229,59" scale="0.383076596184074,0.61893181868771" />
+    <mount key="post" pos="593,372" dim="182,30" scale="0.130161319384093,0.237098294372906" />
+    <mount key="weirdboxthing" pos="1016,335" scale="0.339778834522034" />
+    <mount key="redtape" pos="606,319" scale="0.155661715006362" />
+  </bad>
+</cell>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="2/3-2.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <fix>
+    <mount key="rocks" pos="790,386" scale="0.186530491571647" />
+  </fix>
+  <bad>
+    <mount key="bones" pos="180,451" dim="446,122" scale="0.0908268075694223,0.237098294372906" />
+    <mount key="skullsignbent" pos="46,459" scale="0.267311551931091" />
+    <mount key="deadcow" pos="555,376" scale="0.129512460660411" />
+    <mount key="post" pos="775,363" scale="0.130161319384092" />
+  </bad>
+</cell>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" norepeat="true" >
+<frame img="dogFlee0001.png"/>
+<frame img="dogFlee0002.png"/>
+<frame img="dogFlee0003.png"/>
+<frame img="dogFlee0004.png"/>
+</Animation>

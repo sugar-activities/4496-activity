@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" >
+<frame img="dogIdleHappy0001.png"/>
+<frame img="dogIdleHappy0002.png"/>
+<frame img="dogIdleHappy0003.png"/>
+<frame img="dogIdleHappy0004.png"/>
+<frame img="dogIdleHappy0005.png"/>
+<frame img="dogIdleHappy0006.png"/>
+<frame img="dogIdleHappy0007.png"/>
+<frame img="dogIdleHappy0008.png"/>
+<frame img="dogIdleHappy0009.png"/>
+<frame img="dogIdleHappy0010.png"/>
+<frame img="dogIdleHappy0011.png"/>
+<frame img="dogIdleHappy0012.png"/>
+<frame img="dogIdleHappy0013.png"/>
+<frame img="dogIdleHappy0014.png"/>
+<frame img="dogIdleHappy0015.png"/>
+<frame img="dogIdleHappy0016.png"/>
+</Animation>

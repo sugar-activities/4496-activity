@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/0-1.JPG" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <fix>
+    <mount key="bush" pos="346,274" scale="0.362224049110851" />
+    <mount key="stump" pos="565,324" dim="212,55" scale="0.154576428486371,0.144419554191975" />
+  </fix>
+  <bad>
+    <mount key="sign" pos="851,532" scale="0.233336774474096" nomirror="true" />
+    <mount key="cow" pos="375,548" dim="265,172" scale="0.571368918204599" />
+  </bad>
+  <good>
+    <mount key="rocks" pos="958,747" scale="0.587585108925132" />
+  </good>
+</cell>

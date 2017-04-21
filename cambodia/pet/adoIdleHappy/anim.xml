@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5">
+	<frame img="midIdleHappy0001.png"/>
+	<frame img="midIdleHappy0002.png"/>
+	<frame img="midIdleHappy0003.png"/>
+	<frame img="midIdleHappy0004.png"/>
+	<frame img="midIdleHappy0005.png"/>
+	<frame img="midIdleHappy0006.png"/>
+	<frame img="midIdleHappy0007.png"/>
+	<frame img="midIdleHappy0008.png"/>
+	<frame img="midIdleHappy0009.png"/>
+	<frame img="midIdleHappy0010.png"/>
+	<frame img="midIdleHappy0011.png"/>
+	<frame img="midIdleHappy0012.png"/>
+	<frame img="midIdleHappy0013.png"/>
+	<frame img="midIdleHappy0014.png"/>
+	<frame img="midIdleHappy0015.png"/>
+	<frame img="midIdleHappy0016.png"/>
+</Animation>

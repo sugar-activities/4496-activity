@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".3" norepeat="true">
+	<frame img="midLick0001.png"/>
+	<frame img="midLick0002.png"/>
+	<frame img="midLick0003.png"/>
+	<frame img="midLick0004.png"/>
+	<frame img="midLick0005.png"/>
+	<frame img="midLick0006.png"/>
+	<frame img="midLick0007.png"/>
+	<frame img="midLick0008.png"/>
+	<frame img="midLick0009.png"/>
+	<frame img="midLick0010.png"/>
+	<frame img="midLick0011.png"/>
+	<frame img="midLick0012.png"/>
+	<frame img="midLick0013.png"/>
+</Animation>

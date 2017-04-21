@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".4" norepeat="True">
+	<frame img="inspector001.png"/>
+	<frame img="inspector002.png"/>
+	<frame img="inspector003.png"/>
+	<frame img="inspector004.png"/>
+	<frame img="inspector005.png"/>
+	<frame img="inspector006.png"/>
+	<frame img="inspector007.png"/>
+	<frame img="inspector008.png"/>
+	<frame img="inspector009.png"/>
+	<frame img="inspector010.png"/>
+	<frame img="inspector011.png"/>
+</Animation>

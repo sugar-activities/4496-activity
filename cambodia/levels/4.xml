@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<level size="6,6" start="4,1" startdir="1" music="background1.ogg">
+	<map img="map2.png" tl="44, 44" br="211,211" foodIcon="foodIconMini.png" playerIcon="playerArrow.png"/>
+	<home xml="home.cell"/>
+	<row>
+		<cell/>
+		<cell xml="2/L4-0-1.cell"/>
+		<cell xml="2/L4-0-2.cell"/>
+		<cell xml="2/L4-0-3.cell"/>
+		<cell xml="2/L4-0-4.cell"/>
+		<cell/>
+	</row>
+	<row>
+		<cell xml="2/L4-1-0.cell"/>
+		<cell xml="2/L4-1-1.cell"/>
+		<cell xml="2/L4-1-2.cell"/>
+		<cell xml="2/L4-1-3.cell"/>
+		<cell xml="2/L4-1-4.cell"/>
+		<cell xml="2/L4-1-5.cell"/>
+	</row>
+	<row>
+		<cell xml="2/L4-2-0.cell"/>
+		<cell xml="2/L4-2-1.cell"/>
+		<cell xml="2/L4-2-2.cell"/>
+		<cell xml="2/L4-2-3.cell"/>
+		<cell xml="2/L4-2-4.cell"/>
+		<cell xml="2/L4-2-5.cell"/>
+	</row>
+	<row>
+		<cell xml="2/L4-3-0.cell"/>
+		<cell xml="2/L4-3-1.cell"/>
+		<cell xml="2/L4-3-2.cell"/>
+		<cell xml="2/L4-3-3.cell"/>
+		<cell xml="2/L4-3-4.cell"/>
+		<cell xml="2/L4-3-5.cell"/>
+	</row>
+	<row>
+		<cell xml="2/L4-4-0.cell"/>
+		<cell xml="2/L4-4-1.cell"/>
+		<cell xml="2/L4-4-2.cell"/>
+		<cell xml="2/L4-4-3.cell"/>
+		<cell xml="2/L4-4-4.cell"/>
+		<cell xml="2/L4-4-5.cell"/>
+	</row>
+	<row>
+		<cell/>
+		<cell xml="2/L4-5-1.cell"/>
+		<cell xml="2/L4-5-2.cell"/>
+		<cell xml="2/L4-5-3.cell"/>
+		<cell xml="2/L4-5-4.cell"/>
+		<cell/>
+	</row>
+</level>

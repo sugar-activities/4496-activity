@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" norepeat="true" >
+<frame img="pupFlee0001.png"/>
+<frame img="pupFlee0002.png"/>
+<frame img="pupFlee0003.png"/>
+<frame img="pupFlee0004.png"/>
+<frame img="pupFlee0005.png"/>
+<frame img="pupFlee0006.png"/>
+<frame img="pupFlee0007.png"/>
+</Animation>

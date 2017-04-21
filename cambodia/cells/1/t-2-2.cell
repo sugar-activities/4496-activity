@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/2-2.JPG" voiceonce="08.ogg" stuckWest="True" stuckEast="True" stuckNorth="True" stuckSouth="True">
+  <bad>
+    <mount key="skullsign" pos="848,217" scale="0.486927401542474" nomirror="true" />
+    <mount key="treewall" pos="424,228" scale="0.618931818687708" />
+  </bad>
+</cell>

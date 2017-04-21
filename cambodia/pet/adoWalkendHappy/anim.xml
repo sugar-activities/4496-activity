@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" norepeat="true">
+	<frame img="midWalkHappy0014.png"/>
+	<frame img="midWalkHappy0015.png"/>
+	<frame img="midWalkHappy0016.png"/>
+</Animation>

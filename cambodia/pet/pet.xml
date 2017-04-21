@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animations>
+	<!--Wow... this was a dumb arrangement.... whatever, for now it works-->
+	<Animation folder="adoIdleHappy"			pettype="ado" name="idle" 			mood="happy"/>
+	<Animation folder="adoIdleVeryHappy"		pettype="ado" name="idle" 			mood="veryhappy"/>
+	<Animation folder="adoIdleSad"				pettype="ado" name="idle" 			mood="sad"/>
+	<Animation folder="adoIdleVerySad"			pettype="ado" name="idle" 			mood="verysad"/>
+	<Animation folder="adoFlee"					pettype="ado" name="flee"			mood="special"/>
+	<Animation folder="adoFleeStart"			pettype="ado" name="fleestart"		mood="special"/>
+	<Animation folder="adoLick"					pettype="ado" name="lick"			mood="special"/>
+	<Animation folder="adoWalkendHappy"			pettype="ado" name="walkend"		mood="happy"/>
+	<Animation folder="adoWalkendSad"			pettype="ado" name="walkend"		mood="sad"/>
+	<Animation folder="adoWalkHappy"			pettype="ado" name="walk"			mood="happy"/>
+	<Animation folder="adoWalkSad"				pettype="ado" name="walk"			mood="sad"/>
+	<Animation folder="adoWalkstartHappy"		pettype="ado" name="walkstart"		mood="happy"/>
+	<Animation folder="adoWalkstartSad"			pettype="ado" name="walkstart"		mood="sad"/>
+	
+	
+	<Animation folder="dogIdleHappy"			pettype="dog" name="idle" 			mood="happy"/>
+	<Animation folder="dogIdleVeryHappy"		pettype="dog" name="idle" 			mood="veryhappy"/>
+	<Animation folder="dogIdleSad"				pettype="dog" name="idle" 			mood="sad"/>
+	<Animation folder="dogIdleVerySad"			pettype="dog" name="idle" 			mood="verysad"/>
+	<Animation folder="dogFlee"					pettype="dog" name="flee"			mood="special"/>
+	<Animation folder="dogFleestart"			pettype="dog" name="fleestart"		mood="special"/>
+	<Animation folder="dogLick"					pettype="dog" name="lick"			mood="special"/>
+	<Animation folder="dogWalkendHappy"			pettype="dog" name="walkend"		mood="happy"/>
+	<Animation folder="dogWalkendSad"			pettype="dog" name="walkend"		mood="sad"/>
+	<Animation folder="dogWalkHappy"			pettype="dog" name="walk"			mood="happy"/>
+	<Animation folder="dogWalkSad"				pettype="dog" name="walk"			mood="sad"/>
+	<Animation folder="dogWalkstartHappy"		pettype="dog" name="walkstart"		mood="happy"/>
+	<Animation folder="dogWalkstartSad"			pettype="dog" name="walkstart"		mood="sad"/>
+	
+	
+	
+	<Animation folder="pupIdleHappy"			pettype="pup" name="idle" 			mood="happy"/>
+	<Animation folder="pupIdleVeryHappy"		pettype="pup" name="idle" 			mood="veryhappy"/>
+	<Animation folder="pupIdleSad"				pettype="pup" name="idle" 			mood="sad"/>
+	<Animation folder="pupIdleVerySad"			pettype="pup" name="idle" 			mood="verysad"/>
+	<Animation folder="pupFlee"					pettype="pup" name="flee"			mood="special"/>
+	<Animation folder="pupFleestart"			pettype="pup" name="fleestart"		mood="special"/>
+	<Animation folder="pupLick"					pettype="pup" name="lick"			mood="special"/>
+	<Animation folder="pupWalkendHappy"			pettype="pup" name="walkend"		mood="happy"/>
+	<Animation folder="pupWalkendSad"			pettype="pup" name="walkend"		mood="sad"/>
+	<Animation folder="pupWalkHappy"			pettype="pup" name="walk"			mood="happy"/>
+	<Animation folder="pupWalkSad"				pettype="pup" name="walk"			mood="sad"/>
+	<Animation folder="pupWalkstartHappy"		pettype="pup" name="walkstart"		mood="happy"/>
+	<Animation folder="pupWalkstartSad"			pettype="pup" name="walkstart"		mood="sad"/>
+
+</Animations>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cell img="1/2-3.JPG" stuckNorth="False" stuckEast="False" stuckSouth="False" stuckWest="True">
+  <fix>
+    <mount key="bush" pos="171,280" scale="0.697801835439313" />
+  </fix>
+</cell>

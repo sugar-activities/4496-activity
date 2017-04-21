@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" norepeat="True">
+	<frame img="midFlee0001.png"/>
+	<frame img="midFlee0002.png"/>
+	<frame img="midFlee0003.png"/>
+	<frame img="midFlee0004.png"/>
+	<frame img="midFlee0005.png"/>
+	<frame img="midFlee0006.png"/>
+	<frame img="midFlee0007.png"/>
+</Animation>

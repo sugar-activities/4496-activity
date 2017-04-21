@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".5" mirror="true" >
+<frame img="pupWalkSad0006.png"/>
+<frame img="pupWalkSad0007.png"/>
+<frame img="pupWalkSad0008.png"/>
+<frame img="pupWalkSad0009.png"/>
+<frame img="pupWalkSad0010.png"/>
+<frame img="pupWalkSad0011.png"/>
+<frame img="pupWalkSad0012.png"/>
+<frame img="pupWalkSad0013.png"/>
+<frame img="pupWalkSad0014.png"/>
+</Animation>

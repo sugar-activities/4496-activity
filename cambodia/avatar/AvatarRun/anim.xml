@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation frametime=".1" norepeat="True">
+	<frame img="run001.png"/>
+	<frame img="run002.png"/>
+	<frame img="run003.png"/>
+	<frame img="run004.png"/>
+	<frame img="run005.png"/>
+	<frame img="run006.png"/>
+	<frame img="run007.png"/>
+	<frame img="run008.png"/>
+	<frame img="run009.png"/>
+	<frame img="run010.png"/>
+	<frame img="run011.png"/>
+	<frame img="run012.png"/>
+	<frame img="run013.png"/>
+	<frame img="run014.png"/>
+</Animation>
